@@ -1,4 +1,4 @@
-const express = require('expres');
+const express = require('express');
 const { data } = require('./db/db.json');
 
 const apiRoutes = require('./routes/apiRoutes');
@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 app.use(express.urlencoded({ extended: true }));
-app.use(exrpress.json());
+app.use(express.json());
 app.use(express.static('public'));
 
 app.use('/api', apiRoutes);
