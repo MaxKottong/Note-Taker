@@ -1,6 +1,9 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Note",
+      "text": "Add a note description here!",
+      "id": "rXGduhfWH4"
     }
-]
+  ]
+}
