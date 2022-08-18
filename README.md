@@ -14,3 +14,6 @@ them on the app.
 
 ## Links
 [Live Site](http://salty-bastion-18826.herokuapp.com/)
+
+## Screenshot
+![Finished-Site](./public/assets/images/finished-site.PNG)
